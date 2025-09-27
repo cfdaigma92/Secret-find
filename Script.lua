@@ -4,7 +4,7 @@ local GamePlaceId = game.PlaceId
 
 local CHECK_INTERVAL = 1
 
--- Verified Secret Brainrots / objects (unsorted, natural list)
+
 local SECRETS = {
     "La Grande Combinasion",
     "Garama and Madundung",
