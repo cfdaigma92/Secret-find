@@ -17,7 +17,6 @@ local SECRETS = {
     "Los Hotspotsitos",
     "Esok Sekolah",
     "Nooo My Hotspot",
-    "Admin Lucky Block",
     "La Supreme Combinasion",
     "Spaghetti Tualetti",
     "Chimpanzini Spiderini",
