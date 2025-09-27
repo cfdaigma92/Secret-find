@@ -24,7 +24,6 @@ local SECRETS = {
     "Los Bros",
     "67",
     "Tralaledon",
-    "La Sahur Combinasion",
     "Ketchuru and Musturu",
     "Las Sis",
     "Los Chicleteiras",
