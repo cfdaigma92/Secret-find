@@ -32,6 +32,10 @@ local SECRETS = {
     "Tralaledon",
     "Ketupat Kepat",
     "Tacorita Bicicleta",
+    "Mariachi Corazoni",
+    "Los Tacoritas",
+    "Tictac Sahur",
+    "Ketupat Kepat",
     "La Extinct Grande",
     "Los Nooo My Hotspotsitos"
 }
