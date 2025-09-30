@@ -13,6 +13,7 @@ local SECRETS = {
     "Chicleteira Bicicleteira",
     "Los Combinasionas",
     "Dragon Cannelloni",
+    "Chillin Chilli",
     "Secret Lucky Block",
     "Los Hotspotsitos",
     "Esok Sekolah",
