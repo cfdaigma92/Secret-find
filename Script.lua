@@ -32,6 +32,7 @@ local SECRETS = {
     "Tacorita Bicicleta",
     "Mariachi Corazoni",
     "Money Money Puggy",
+    "Quesadilla Crocodila",
     "Los Tacoritas",
     "Tictac Sahur",
     "Ketupat Kepat",
