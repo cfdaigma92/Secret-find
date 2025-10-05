@@ -22,6 +22,7 @@ local SECRETS = {
     "Chimpanzini Spiderini",
     "Los Bros",
     "67",
+    "Chillin Chilli",
     "Tralaledon",
     "Ketchuru and Musturu",
     "Las Sis",
