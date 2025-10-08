@@ -16,6 +16,7 @@ local SECRETS = {
     "Chillin Chilli",
     "Secret Lucky Block",
     "Los Hotspotsitos",
+    "La Secret Combinasion",
     "Esok Sekolah",
     "La Supreme Combinasion",
     "Spaghetti Tualetti",
