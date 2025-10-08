@@ -23,6 +23,7 @@ local SECRETS = {
     "Los Bros",
     "67",
     "Chillin Chilli",
+    "Fragola La La La",
     "Tralaledon",
     "Ketchuru and Musturu",
     "Las Sis",
