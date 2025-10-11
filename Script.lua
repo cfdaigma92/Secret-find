@@ -27,6 +27,8 @@ local SECRETS = {
     "Chillin Chilli",
     "Fragola La La La",
     "Tralaledon",
+    "La Spooky Grande",
+    "Eviledon",
     "Ketchuru and Musturu",
     "Las Sis",
     "Los Chicleteiras",
