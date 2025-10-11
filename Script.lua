@@ -32,6 +32,7 @@ local SECRETS = {
     "Eviledon",
     "Ketchuru and Musturu",
     "Las Sis",
+    "Spooky and Pumpky",
     "Los Chicleteiras",
     "Celularcini Viciosini",
     "Tralaledon",
