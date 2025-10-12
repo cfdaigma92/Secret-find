@@ -22,6 +22,7 @@ local SECRETS = {
     "La Supreme Combinasion",
     "Spaghetti Tualetti",
     "Chimpanzini Spiderini",
+    "Los Mobilis",
     "Los Bros",
     "67",
     "Chillin Chilli",
