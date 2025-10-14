@@ -36,7 +36,6 @@ local SECRETS = {
     "Los Chicleteiras",
     "Celularcini Viciosini",
     "Tralaledon",
-    "La Vacca Jacko Linterino",
     "Ketupat Kepat",
     "Tacorita Bicicleta",
     "Mariachi Corazoni",
