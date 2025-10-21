@@ -10,6 +10,7 @@ local SECRETS = {
     "Garama and Madundung",
     "Nuclearo Dinossauro",
     "Chicleteira Bicicleteira",
+    "Mieteteira Bicicleteira",
     "Los Combinasionas",
     "Burguro And Fryuro",
     "Los 67",
