@@ -11,6 +11,7 @@ local SECRETS = {
     "Nuclearo Dinossauro",
     "Chicleteira Bicicleteira",
     "Mieteteira Bicicleteira",
+    "Chicleteirina Bicicleteirina",
     "Los Combinasionas",
     "Burguro And Fryuro",
     "Los 67",
