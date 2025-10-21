@@ -13,6 +13,7 @@ local SECRETS = {
     "Mieteteira Bicicleteira",
     "Chicleteirina Bicicleteirina",
     "Los Combinasionas",
+    "Chipso and Queso",
     "Burguro And Fryuro",
     "Los 67",
     "Dragon Cannelloni",
