@@ -12,7 +12,6 @@ local SECRETS = {
     "Chicleteira Bicicleteira",
     "Mieteteira Bicicleteira",
     "Chicleteirina Bicicleteirina",
-    "Burrito Bandito",
     "Los Combinasionas",
     "Chipso and Queso",
     "Burguro And Fryuro",
