@@ -7,6 +7,18 @@ local CHECK_INTERVAL = 1
 
 local SECRETS = {
     "La Grande Combinasion",
+    "Lavadorito Spinito",
+    "Cooki and Milki",
+    "Orcaledon",
+    "Gingerat Gerat",
+    "W or L",
+    "La Ginger Sekolah",
+    "La Jolly Grande",
+    "Gobblino Uniciclino",
+    "Fishino Clownino",
+    "Fragrama and Chocrama",
+    "La Taco Combinasion",
+    "Festive 67",
     "Garama and Madundung",
     "Nuclearo Dinossauro",
     "Chicleteira Bicicleteira",
