@@ -8,6 +8,8 @@ local CHECK_INTERVAL = 1
 local SECRETS = {
     "La Grande Combinasion",
     "Lavadorito Spinito",
+    "Meowl",
+    "Strawberry Elephant",
     "Cooki and Milki",
     "Orcaledon",
     "Gingerat Gerat",
@@ -66,12 +68,12 @@ local SECRETS = {
     "Tacorita Bicicleta",
     "Mariachi Corazoni",
     "Money Money Puggy",
-    "Tang Tang Kelentang",
+    "Tang Tang Keletang",
     "Los Tacoritas",
     "Tictac Sahur",
     "Ketupat Kepat",
-    "La Extinct Grande",
-    "Los Nooo My Hotspotsitos"
+    "La Extinct Grande"
+    
 }
 
 -- Function to apply highlight and label to the secret object
