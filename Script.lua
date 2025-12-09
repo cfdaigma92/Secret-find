@@ -6,10 +6,10 @@ local CHECK_INTERVAL = 1
 
 
 local SECRETS = {
-    "La Grande Combinasion",
+
     "Lavadorito Spinito",
-    "Meowl",
-    "Strawberry Elephant",
+
+
     "Cooki and Milki",
     "Orcaledon",
     "Gingerat Gerat",
@@ -22,7 +22,6 @@ local SECRETS = {
     "La Taco Combinasion",
     "Festive 67",
     "Garama and Madundung",
-    "Nuclearo Dinossauro",
     "Chicleteira Bicicleteira",
     "Mieteteira Bicicleteira",
     "Chicleteirina Bicicleteirina",
@@ -31,7 +30,6 @@ local SECRETS = {
     "Fragrama and Chocrama",
     "Los Spaghettis",
     "Los Puggies",
-    "Burguro And Fryuro",
     "La Casa Boo",
     "La Taco Combinasion",
     "Los Primos",
@@ -44,7 +42,6 @@ local SECRETS = {
     "Dragon Cannelloni",
     "Chillin Chilli",
     "Secret Lucky Block",
-    "Los Hotspotsitos",
     "La Secret Combinasion",
     "Esok Sekolah",
     "La Supreme Combinasion",
@@ -63,7 +60,6 @@ local SECRETS = {
     "Spooky and Pumpky",
     "Los Chicleteiras",
     "Celularcini Viciosini",
-    "Tralaledon",
     "Ketupat Kepat",
     "Tacorita Bicicleta",
     "Mariachi Corazoni",
