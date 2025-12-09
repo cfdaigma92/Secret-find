@@ -6,10 +6,7 @@ local CHECK_INTERVAL = 1
 
 
 local SECRETS = {
-
     "Lavadorito Spinito",
-
-
     "Cooki and Milki",
     "Orcaledon",
     "Gingerat Gerat",
@@ -25,7 +22,6 @@ local SECRETS = {
     "Chicleteira Bicicleteira",
     "Mieteteira Bicicleteira",
     "Chicleteirina Bicicleteirina",
-    "Los Combinasionas",
     "Chipso and Queso",
     "Fragrama and Chocrama",
     "Los Spaghettis",
@@ -68,8 +64,7 @@ local SECRETS = {
     "Los Tacoritas",
     "Tictac Sahur",
     "Ketupat Kepat",
-    "La Extinct Grande"
-    
+    "La Extinct Grande"  
 }
 
 -- Function to apply highlight and label to the secret object
